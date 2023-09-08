@@ -2,7 +2,7 @@
 
 rm -rf File-Cloning
 
-git clone https://github.com/Tutul-King/File-Cloning
+git clone https://github.com/shakilmia44/File-Cloning
 
 cd File-Cloning
 
